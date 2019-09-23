@@ -5,7 +5,7 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   console.log('--------------------------------------------------------------------------------')
   // res.render('users',{title: 'user title'})
-  res.send('this is the login page')
+  res.render('form')
 });
 
 // http://localhost:3000/users?name=justin&age=26

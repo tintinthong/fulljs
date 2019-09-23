@@ -36,7 +36,6 @@ router.get('/', function (req, res, next) {
 
     client.close('db connection is closed ');
   });
-
   res.render('index', { title: 'Express' });
 });
 
