@@ -1,10 +1,8 @@
-## All-in-one db adaptor and authenticator 
+## fulljs 
 
-Using api-endpoints for:
+This is a full backend application.
 
-1. Different db connectors 
-2. Different authentication services using passport js 
-3. Form posting feature
-4. Quering language layer using graphql 
-5. GCP as base computing engine 
-
+1. API design
+2. Form UI interaction
+3. Authentication 
+4. Search querying database
