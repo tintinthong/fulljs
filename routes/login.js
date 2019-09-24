@@ -8,6 +8,7 @@ router.get('/', function(req, res, next) {
   res.render('form')
 });
 
+
 // http://localhost:3000/users?name=justin&age=26
 
 module.exports = router;
